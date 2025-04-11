@@ -10,7 +10,7 @@ class Shape {
 
 class Circle extends Shape {
     double r;
-    double pi = 3.141592653589793;
+    double pi = 3.141;
 
     Circle(double r) {
         this.r = r;
